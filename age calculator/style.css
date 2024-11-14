@@ -9,18 +9,19 @@ body{
     height: 8rem;
     width: 0.5rem;
     background-color: #FAFFAF;
-    margin-left: 5rem;
-    margin-top: 2rem;
+    margin-left: 1rem;
+    margin-top: 2em;
 }
 #heading1{
     color: white;
-    width: 46vw;
-    margin-top: -8rem;
+    width: 100%;
+    margin-top: -8em;
+    margin-left: 1em;
 }
 #heading2{
     color: #FAFFAF;
-    width: 33vw;
-    margin-left: 1.5rem;
+    width: 100%;
+    margin-left: 1em;
 }
 #white{
     margin-left: 70%;
@@ -33,22 +34,24 @@ body{
     justify-content: center;
     align-items: center;
     background-color: #96C9F4;
-    width: 28vw;
+    width: 78vw;
     height: 12vh;
-    margin-top: -15rem;
-    margin-left: 7rem;
+    margin-top: -15em;
+    margin-left: 7%;
     border-radius: 8px;
 }
 #buttonn{
     background-color: #FAFFAF;
     height: 6vh;
+    width: 20vw;
+    border-radius: 5px;
 }
 #date{
     height: 0.00001vh;
     justify-content: center;
     display: flex;
     margin-right: 1vw;
-    width: 15vw;
+    width: 35vw;
 }
 .box input{
     display: flex;
@@ -71,7 +74,7 @@ body{
     cursor: pointer;
 }
 #result{
-    margin-left: 7rem;
-    margin-top: 3.5rem;
+    margin-left: 7%;
+    margin-top: 3.5%;
     color: #FAFFAF;
 }
